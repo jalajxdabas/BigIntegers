@@ -1,4 +1,4 @@
-##BigIntegers in C++
+## BigIntegers in C++
 In C/C++ the number of digits a long long int can have is a maximum of 20. And the question is to store the 22 digit number which is not easy to store in any kind of primitive type. So to deal with this type of problem let’s design a new data type which is going to be called BigInt In this article, a few basic operations are being implemented on the new data type.
 1.Add two big integers.
 2.Subtract two big integers
@@ -12,14 +12,14 @@ In C/C++ the number of digits a long long int can have is a maximum of 20. And t
 10.Print the big integer.
 11.Convert an integer to a big integer.
 
-###Applications Of BigInt:
+### Applications Of BigInt:
 Below are some basic applications of the new data type, BigInt:
 
 1.Calculating the Fibonacci number of a large number.
 2.Calculating the Catalan number of a large number
 3.Calculating the Factorial of a big integer.
 
-###Approach:
+### Approach:
 To create a new data type of big integers following concepts are being implemented:
 
 1.C++ strings in that we can store our numbers in the form of characters (in reverse order for efficiency purposes) such that using strings we can store very big numbers also.
