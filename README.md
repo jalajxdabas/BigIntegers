@@ -42,4 +42,6 @@ To create a new data type of big integers following concepts are being implement
 
 3.Similarly, for the multiplication of two numbers, use the basic mathematics approach which states that multiply every digit of one number with the other complete number and at last add all the numbers we get in multiplication.
 
-Hey, this is modifies using git
+
+
+In conclusion, the `BigInt` class provides a robust way to handle arbitrarily large integers in C++ by leveraging string-based representation and implementing basic mathematical operations. This custom data type enables precise computation for applications like factorials, Fibonacci numbers, and other scenarios involving large numerical values, overcoming the limitations of primitive data types.
